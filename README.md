@@ -1,9 +1,4 @@
-# Trader Performance vs Market Sentiment — Primetrade.ai Round-0 Assignment
-
-**Author:** Rajesh Praharaj  
-**Role Applied:** Data Science / Analytics Intern  
-**Company:** Primetrade.ai
-
+# Trader Performance vs Market Sentiment 
 ---
 
 ## Project Structure
