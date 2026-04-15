@@ -12,6 +12,12 @@
 ├── primetrade_analysis.ipynb   # Main analysis notebook
 ├── fear_greed_index.csv        # Bitcoin Fear/Greed Index dataset
 ├── historical_data.csv         # Hyperliquid trader data
+├── chart1_performance_by_sentiment.png
+├── chart2_behavior_by_sentiment.png
+├── chart3_segmentation.png
+├── chart4_winrate_heatmap.png
+├── chart5_cumulative_pnl.png
+├── chart6_longshort_ratio.png
 └── README.md
 ```
 
