@@ -1,4 +1,4 @@
-# 📊 Trader Performance vs Market Sentiment — Primetrade.ai Round-0 Assignment
+# Trader Performance vs Market Sentiment — Primetrade.ai Round-0 Assignment
 
 **Author:** Rajesh Praharaj  
 **Role Applied:** Data Science / Analytics Intern  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── primetrade_analysis.ipynb   # Main analysis notebook
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 ```bash
@@ -33,7 +33,7 @@ jupyter notebook primetrade_analysis.ipynb
 
 ---
 
-## 📋 Methodology
+## Methodology
 
 ### Data Preparation
 - Loaded and explored both datasets (211,224 raw trade rows; 2,644 Fear/Greed entries)
@@ -50,7 +50,7 @@ jupyter notebook primetrade_analysis.ipynb
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 | # | Insight | Evidence |
 |---|---------|----------|
@@ -62,7 +62,7 @@ jupyter notebook primetrade_analysis.ipynb
 
 ---
 
-## 💡 Strategy Recommendations
+## Strategy Recommendations
 
 **Strategy 1 — "Fear is Opportunity"**  
 During Fear days (FGI < 40), high-risk traders should scale position size 1.3–1.5x vs their Neutral-day baseline, maintaining a long bias with tighter stop-losses.
